@@ -1,0 +1,41 @@
+.brand-logo {
+  color: #ffd54f !important;
+  background-color:#424242 !important;
+}
+
+.material-icons {
+  color: #424242 !important;
+}
+
+.btn {
+  color: #424242 !important; 
+}
+
+.col.s12 > .btn {
+  width: 100%;
+  margin-top: 30px;
+  background-color:#424242;
+  color: #ffd54f !important;
+  border-radius: 5px;
+}
+
+.col.s12 > .btn {
+  background-color:#424242;
+  color: #ffd54f !important;
+}
+
+.card {
+  padding: 25px !important;
+}
+
+.card > .row > .row > .col.s4 > .btn {
+  width: 80%;
+  background-color:#424242 !important;
+  color: #ffd54f !important;
+}
+
+.card > .row > .row > .col.s4 > .date {
+  color: #c7c7c7 !important;
+  padding-left: 10px !important;
+  margin-left: 10px;
+}
